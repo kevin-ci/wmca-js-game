@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+img {
+    max-height: 200px;
+    width: 200px;
+}
+
+.character-name {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.character-health {
+    font-size: large;
+    font-weight: bold;
+}
+
+.flipped-img {
+    transform: scale(-1, 1.01);
+}
+
+#fight-status {
+    font-size: larger;
+}
